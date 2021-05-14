@@ -37,6 +37,7 @@ public class Arrays {
         this.numbers = newNumbers;
      }
 
+     //this method is to add numbers in any position
     public void add(int index, int number){
         int[] newNumbers = new int[this.numbers.length + 1];
         for(int i =0; i < newNumbers.length; i++){
@@ -53,6 +54,15 @@ public class Arrays {
         this.numbers = newNumbers;
     }
 
+    public int findIndex(int number){
+        int index = -1;
+        for(int i = 0; i < this.numbers.length; i++){
+            if(this.numbers[i] == number){
+                index = i;
+            }
+        }
+        return index;
+    }
 
     //this method is to print all data in the array
     public void print(){

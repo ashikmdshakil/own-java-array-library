@@ -7,7 +7,8 @@ public class Mian {
         numbers.input(400);
         numbers.input(500);
         //numbers.remove(1);
-        numbers.add(0,1000);
+        //numbers.add(0,1000);
+        System.out.println("The index number is "+numbers.findIndex(300));
         numbers.print();
     }
 }
