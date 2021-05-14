@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d17fe859-ef4f-4053-8f30-2aedad976565" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Data Structutre/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structutre/Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mian.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -56,6 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Mian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -65,13 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,7 +96,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620907593565</updated>
-      <workItem from="1620907594659" duration="6791000" />
+      <workItem from="1620907594659" duration="7479000" />
+      <workItem from="1620917787842" duration="1713000" />
     </task>
     <servers />
   </component>
@@ -107,27 +114,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1620908796927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1620908796927" />
-    <state width="1323" height="341" key="GridCell.Tab.0.bottom" timestamp="1620916047381">
+    <state width="1323" height="365" key="GridCell.Tab.0.bottom" timestamp="1621015816778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="341" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1620916047381" />
-    <state width="1323" height="341" key="GridCell.Tab.0.center" timestamp="1620916047381">
+    <state width="1323" height="365" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621015816778" />
+    <state width="1323" height="365" key="GridCell.Tab.0.center" timestamp="1621015816778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="341" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1620916047381" />
-    <state width="1323" height="341" key="GridCell.Tab.0.left" timestamp="1620916047381">
+    <state width="1323" height="365" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621015816778" />
+    <state width="1323" height="365" key="GridCell.Tab.0.left" timestamp="1621015816778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="341" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1620916047381" />
-    <state width="1323" height="341" key="GridCell.Tab.0.right" timestamp="1620916047381">
+    <state width="1323" height="365" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621015816778" />
+    <state width="1323" height="365" key="GridCell.Tab.0.right" timestamp="1621015816778">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="341" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1620916047381" />
+    <state width="1323" height="365" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621015816778" />
   </component>
 </project>
