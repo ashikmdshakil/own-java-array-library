@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d17fe859-ef4f-4053-8f30-2aedad976565" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d17fe859-ef4f-4053-8f30-2aedad976565" name="Default Changelist" comment="Data can be removed by index.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Data Structutre/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Data Structutre/Arrays.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
@@ -97,8 +95,16 @@
       <option name="presentableId" value="Default" />
       <updated>1620907593565</updated>
       <workItem from="1620907594659" duration="7479000" />
-      <workItem from="1620917787842" duration="1713000" />
+      <workItem from="1620917787842" duration="3002000" />
     </task>
+    <task id="LOCAL-00001" summary="Data can be removed by index.">
+      <created>1621016780866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621016780867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,26 +122,34 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data can be removed by index." />
+    <option name="LAST_COMMIT_MESSAGE" value="Data can be removed by index." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1620908796927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1620908796927" />
-    <state width="1323" height="365" key="GridCell.Tab.0.bottom" timestamp="1621015816778">
+    <state width="1323" height="383" key="GridCell.Tab.0.bottom" timestamp="1621018330128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="365" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621015816778" />
-    <state width="1323" height="365" key="GridCell.Tab.0.center" timestamp="1621015816778">
+    <state width="1323" height="383" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621018330128" />
+    <state width="1323" height="383" key="GridCell.Tab.0.center" timestamp="1621018330128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="365" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621015816778" />
-    <state width="1323" height="365" key="GridCell.Tab.0.left" timestamp="1621015816778">
+    <state width="1323" height="383" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621018330128" />
+    <state width="1323" height="383" key="GridCell.Tab.0.left" timestamp="1621018330128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="365" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621015816778" />
-    <state width="1323" height="365" key="GridCell.Tab.0.right" timestamp="1621015816778">
+    <state width="1323" height="383" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621018330128" />
+    <state width="1323" height="383" key="GridCell.Tab.0.right" timestamp="1621018330128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="365" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621015816778" />
+    <state width="1323" height="383" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621018330128" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1621016792110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1621016792110" />
   </component>
 </project>

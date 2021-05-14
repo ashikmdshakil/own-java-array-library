@@ -37,7 +37,21 @@ public class Arrays {
         this.numbers = newNumbers;
      }
 
-
+    public void add(int index, int number){
+        int[] newNumbers = new int[this.numbers.length + 1];
+        for(int i =0; i < newNumbers.length; i++){
+            if(i < index){
+                newNumbers[i] = this.numbers[i];
+            }
+            else if(i == index){
+                newNumbers[i] = number;
+            }
+            else{
+                newNumbers[i] = this.numbers[i - 1];
+            }
+        }
+        this.numbers = newNumbers;
+    }
 
 
     //this method is to print all data in the array

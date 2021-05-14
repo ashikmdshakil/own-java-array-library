@@ -7,6 +7,7 @@ public class Mian {
         numbers.input(400);
         numbers.input(500);
         //numbers.remove(1);
+        numbers.add(0,1000);
         numbers.print();
     }
 }
