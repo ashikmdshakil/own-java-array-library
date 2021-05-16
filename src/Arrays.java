@@ -54,6 +54,7 @@ public class Arrays {
         this.numbers = newNumbers;
     }
 
+    //this method is to remove item from any index
     public void removeAt(int index){
         int[] newNumbers = new int[this.numbers.length - 1];
         for(int i = 0; i < this.numbers.length - 1; i++){
